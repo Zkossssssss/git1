@@ -1,7 +1,6 @@
-body{background-color: #555555;}
-h1{
-	color:rgb(233,12,34);
+td{
+	width:300px;
+	height: 300;
 }
-h2{color: #ffffff;}
-
-h3{color: blue;}
+body{background-color: #555555;
+	color:white;}
