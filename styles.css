@@ -1,13 +1,12 @@
-td {
-text-align: center;
+h1 {
+	font-size: 50px;
 }
-table{
-width: 5px;
-height:300px;
+h1 {
+	text-align: center;
 }
-td {
-	font-weight: bold;
+h2 {
+	font-size: 40px;
 }
-th {
-	font-weight: bold;
+h2 {
+	font-weight: normal;
 }
