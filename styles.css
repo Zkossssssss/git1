@@ -1,6 +1,12 @@
-ul {
-	color: blue;
+.success {
+	color: green;
 }
-li {
+.error {
 	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
 }
