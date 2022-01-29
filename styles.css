@@ -1,3 +1,11 @@
-#elem + li {
+.elem {
+   font-size: 20px;
+   color: blue;
+}
+.elem {
+	font-size: 30px; 
+   font-style: italic;
    color: red;
 }
+ 
+/* применятся свойства font-size - будет 30px font-style - будет italic color - red */
