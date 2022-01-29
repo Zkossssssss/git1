@@ -1,6 +1,4 @@
-ul {
-	color: blue;
+.bbb.zzz {
+	color: red; font-size: 50px;
 }
-li {
-	color: red;
-}
+<!-- Этот селектор выберет элемент, одновременно имеющий класс bbb и класс zzz --> 
