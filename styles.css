@@ -1,3 +1,6 @@
-#elem.bbb.zzz {
-	color: red;
+h2#elem.bbb {
+   color: red;
 }
+
+
+/*Cелектор выбирает  заголовки h2 имеющие id elem и класс bbb*/
