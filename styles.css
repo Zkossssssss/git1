@@ -1,12 +1,2 @@
-a:link {
-	color: red;
-}
-a:visited {
-	color: green;
-}
-a:hover {
-	text-decoration: none;
-}
-a:active {
-	color: blue;
-}
+a {color: blue; text-decoration: none;}
+ a:hover {color: red; text-decoration: underline;} 
