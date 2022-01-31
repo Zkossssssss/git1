@@ -1,6 +1,12 @@
-ul {
-	color: blue;
-}
-li {
+p:first-of-type {
 	color: red;
 }
+h1:first-of-type {
+	color: red;
+}
+h1:last-of-type {
+	color: red;
+}
+p:last-of-type {
+	color: red;
+} 
