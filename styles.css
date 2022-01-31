@@ -1,6 +1,1 @@
-ul {
-	color: blue;
-}
-li {
-	color: red;
-}
+li:not(.elem) {color: red;} 
