@@ -1,6 +1,12 @@
-ul {
-	color: blue;
-}
-li {
+a:link {
 	color: red;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	color: blue;
 }
