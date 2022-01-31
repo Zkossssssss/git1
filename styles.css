@@ -1,6 +1,1 @@
-ul {
-	color: blue;
-}
-li {
-	color: red;
-}
+#elem {border-width: 5px;border-style: solid;border-color: blue; width:300px;height: 200px;}
