@@ -1,6 +1,1 @@
-ul {
-	color: blue;
-}
-li {
-	color: red;
-}
+ol{list-style-type: lower-greek;} 
