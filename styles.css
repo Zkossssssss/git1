@@ -1,10 +1,18 @@
-#elem {
-   background-size: 400px auto;
-   background-repeat: no-repeat;
+body {
+   background-attachment: scroll;
    background-image: url("bg.png");
-   border: 1px solid black;
+}
+#elem {
    width: 400px;
-   height: 400px;
+   margin: 0 auto;
+   text-align: justify;
+   font-weight: bold;
+   font-size: 20px;
 }
 }
-/* Свойство background-size задает размер картинки фона.*/ 
+p {
+   text-indent: 50px;
+   text-align: justify;
+   width: 400px;
+}
+/*Свойство background-attachment задает каким образом прокручивать фоновую картинку элемента: вместе с текстом или текст будет скользить по картинке. */
