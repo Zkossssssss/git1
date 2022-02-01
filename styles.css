@@ -1,18 +1,8 @@
-body {
-   background-attachment: scroll;
-   background-image: url("bg.png");
+#elem{  background-color: orange;
+   background-clip: padding-box;
+   border: 10px dashed black;
+   padding: 30px;
+   width: 250px;
+   height: 150px;
 }
-#elem {
-   width: 400px;
-   margin: 0 auto;
-   text-align: justify;
-   font-weight: bold;
-   font-size: 20px;
-}
-}
-p {
-   text-indent: 50px;
-   text-align: justify;
-   width: 400px;
-}
-/*Свойство background-attachment задает каким образом прокручивать фоновую картинку элемента: вместе с текстом или текст будет скользить по картинке. */
+/*Свойство background-clip задает как фоновая заливка или фоновая картинка будет размещаться относительно элемента:  */ 
