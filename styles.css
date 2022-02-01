@@ -1,8 +1,9 @@
-#elem{  background-color: orange;
-   background-clip: padding-box;
+#elem{  
+  background-origin: border-box;
+   background-image: url("bg.png");
    border: 10px dashed black;
    padding: 30px;
    width: 250px;
    height: 150px;
 }
-/*Свойство background-clip задает как фоновая заливка или фоновая картинка будет размещаться относительно элемента:  */ 
+/*Свойство background-origin задает то, как фоновая картинка (именно картинка, не заливка) будет размещаться относительно элемента: */
