@@ -1,1 +1,10 @@
-body {background-image: url("bg.png");background-repeat: repeat-x;}
+#elem {
+   background-position: bottom right;
+   background-image: url("bg.png");
+   background-repeat: no-repeat;
+   width: 400px;
+   height: 300px;
+   border: 1px solid black;
+}
+}
+/* Свойство background-position задает местоположение фоновой картинки элемента..*/
