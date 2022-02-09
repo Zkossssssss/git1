@@ -1,9 +1,9 @@
 .parent {
-  padding: 10px 0;
-  border: 1px solid red;
+width: 200px;
+border: 1px solid red;
 }
 .child {
-  padding: 10px;
-  border: 1px solid green;
-  padding-right:  20px;
-}
+margin-top: 40px; /* сверху */
+margin-right: 40px; /* справа */
+margin-bottom: 80px; /* снизу */
+margin-left: 40px; /* слева */
